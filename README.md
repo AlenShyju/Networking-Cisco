@@ -1,0 +1,3 @@
+Description: Network Design for ALSHY Company
+
+This network design provides a reliable, secure, and scalable network infrastructure for ALSHY Company’s three buildings. It uses fiber-optic cables to connect the buildings over distances of 1 km, 0.5 km, and 1.12 km. Routers, switches, and wireless access points provide efficient communication, internet connectivity, and Wi-Fi access on each floor. The IP address range 172.16.0.0/16 is subnetted according to the number of hosts on each floor, with additional address space reserved for future expansion. Environmental considerations, including climate control, cable management, and UPS power backup, help ensure reliable network operation.
